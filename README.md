@@ -1,0 +1,2 @@
+# A-Tooth-shaped-Microstrip-Antenna-for-IEEE-802.11ax-Wi-Fi-applications
+This is the final project of the Antenna Design course. The antenna is based on Markina et. al, 2018, and operates at both 2.4 and 5 GHz. In addition, it conforms to the IEEE 802.11ax Europe standards with enhanced bandwidths. Also, the maximum gain of the higher band is improved by 2.65 dBi, and the physical size is reduced by 35%.
